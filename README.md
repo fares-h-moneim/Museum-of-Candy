@@ -22,7 +22,7 @@ Some changes were made in html and css files for a better and effective design.
 
 ## Installation
 
-You can clone the repository directly to your device to view the webpage or you can download the code from Github's Code button
+You can clone the repository directly to your device to view the webpage or you can download the code from Github's Code button or you can access the website directly by clicking [here](https://museum-of-candy-weld.vercel.app/)
 
 ## References
 This section includes all sources used as documentation to check the use of methods and properties used in the development of this project:
